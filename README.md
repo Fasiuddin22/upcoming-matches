@@ -58,7 +58,7 @@ Frontend will typically run on: `http://localhost:5173`
 
 ## 🌐 API Used
 
-TheSportsDB API
-Endpoint: eventsseason.php
-League ID 4328 refers to the English Premier League.
-Season: 2024-2025
+- TheSportsDB API
+- Endpoint: eventsseason.php
+- League ID 4328 refers to the English Premier League.
+- Season: 2024-2025
