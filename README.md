@@ -25,21 +25,6 @@ A simple and elegant React + Express.js web application that displays upcoming s
 - Node.js
 - `node-fetch` (ESM)
 
----
-
-## 📁 Folder Structure
-Upcoming-matches-project/
-├── backend/
-│ └── index.mjs # Express server fetching from TheSportsDB
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ │ └── MatchList.jsx
-│ │ ├── App.jsx
-│ │ └── index.css / main.jsx
-│ └── public/
-│ └── package.json
-
 
 ## 🔧 Setup Instructions
 
